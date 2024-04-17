@@ -49,5 +49,3 @@ elif thepref == 3:
 
 else:
     print("You wrote the wrong number ")
-    
-print("DSADASDA")
